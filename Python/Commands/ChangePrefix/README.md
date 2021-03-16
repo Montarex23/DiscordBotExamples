@@ -1,5 +1,5 @@
 # ChangePrefix
-In this example you will learn how:
+In this example you will learn how to:
 - Run bot
 - Send messages
 - Create and use configuration file
